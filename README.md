@@ -83,7 +83,7 @@ backend, and the infrastructure that keeps it running. Lately most of my energy 
 - [**ouroboros**](https://github.com/lycorecoil/ouroboros) — self-creating AI agent that rewrites its own source
 - [**chatbot-droits-burkina**](https://github.com/lycorecoil/chatbot-droits-burkina) — AI assistant for labor rights in Burkina Faso
 - [**IKA-TRACKER**](https://github.com/lycorecoil/IKA-TRACKER) — microservices system for managing courier drop-offs
-- [**Project-Tutor-L3-UVBF-Frontend**](https://github.com/lycorecoil/Project-Tutor-L3-UVBF-Frontend) — Flutter + Firebase tutoring platform
+- [**Tutoring platform**](https://github.com/lycorecoil/Project-Tutor-L3-UVBF-Frontend-) — Flutter + Firebase tutoring app
 
 ---
 
