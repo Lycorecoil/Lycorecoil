@@ -2,14 +2,14 @@
 
 # Hi, I'm Jean-Baptiste Ilboudo 👋
 
-### Software Engineer · Applied AI · I ship products end to end
+### Software Engineer · Full-stack, systems & applied AI
 
-*From Flutter front-ends to Supabase/FastAPI back-ends and the infra underneath —
-with a strong focus on LLMs, agents, RAG and the Model Context Protocol.*
+*I build across the whole stack — from C and back-end services to mobile apps,
+infrastructure, and LLM tooling. I like taking an idea all the way to something people actually run.*
 
 <p>
   <img src="https://img.shields.io/badge/Based_in-Burkina_Faso_🇧🇫-2ea44f?style=flat-square" alt="Burkina Faso" />
-  <img src="https://img.shields.io/badge/Focus-Applied_AI_%2F_LLMs-8A2BE2?style=flat-square" alt="Applied AI" />
+  <img src="https://img.shields.io/badge/Focus-Full--stack_%2F_Systems_%2F_AI-8A2BE2?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Open_to-Roles_%26_Freelance-0A66C2?style=flat-square" alt="Open to work" />
 </p>
 
@@ -22,25 +22,39 @@ with a strong focus on LLMs, agents, RAG and the Model Context Protocol.*
 
 ## 🧭 About
 
-I'm a Software Engineer who likes to own a product across the whole stack — mobile app,
-backend, and the infrastructure that keeps it running. Lately most of my energy goes into
-**applied AI**: wiring LLMs into real workflows with agents, RAG, and MCP servers.
+I'm a versatile Software Engineer who enjoys working across very different kinds of problems —
+web back-ends, mobile apps, low-level C, simulations, and applied AI. I care about shipping:
+taking a project from first commit to something deployed and maintained.
 
-- 🔭 I build **shippable products**, not just demos — Flutter apps, TypeScript/Python services, real deployments.
-- 🤖 I go deep on **LLM tooling**: MCP servers, RAG pipelines, local-first models (Whisper / Ollama), autonomous agents.
-- 🌍 I build for **real African use cases** — mobile savings groups (tontines), WhatsApp OTP, a labor-rights assistant.
-- 🌱 Fresh CS graduate, moving fast, and always shipping the next thing.
+- 🧩 **Generalist by choice** — comfortable in C, Python/Django, Node.js, PHP/Laravel, Dart/Flutter.
+- 🚀 I build **real products end to end** — front-end, back-end, and the infra that keeps them running.
+- 🧪 Currently exploring **simulation & modeling** alongside my product work.
+- 🤖 Strong side in **applied AI** — LLMs, agents, RAG, and Model Context Protocol servers.
+- 🌱 Fresh CS graduate 🇧🇫, moving fast and always building the next thing.
 
 ---
 
-## 🚀 What I'm building right now
+## 🛠️ Areas I work in
 
-| Project | What it does | Stack |
+| Area | Tools I reach for |
+|---|---|
+| **Back-end & APIs** | Python · Django · Node.js / Express · PHP / Laravel · FastAPI |
+| **Mobile** | Flutter / Dart · Firebase · Supabase |
+| **Web front-end** | React · Angular · TypeScript |
+| **Systems / low-level** | C · C++ |
+| **Simulation & modeling** | *(in progress — more soon)* |
+| **Applied AI** | LLMs · Agents · RAG · MCP servers · Whisper / Ollama |
+
+---
+
+## 🚀 Selected projects
+
+| Project | What it is | Stack |
 |---|---|---|
-| **🎙️ JHIN — MeetingApp** | A **local-first** meeting assistant: records → transcribes with Whisper → summarizes with an LLM → answers from your own docs via RAG. Driven either by a conversational agent or an Expo mobile/web app. | `7 MCP servers` · `FastAPI` · `Whisper` · `Gemini/Ollama` · `RAG` · `Expo` |
-| **💸 Tonty** | A full **tontine (rotating savings) platform** for the West-African market — mobile app, backend, and the infra behind it, including WhatsApp-based OTP auth. | `Flutter` · `Supabase/Postgres` · `Docker` · `Tailscale` · `WhatsApp API` |
-| **♾️ Ouroboros** | An experimental **self-modifying AI agent** that rewrites its own code through git and evolves across restarts, reviewed by multiple LLMs. | `Python` · `Claude/Gemini/GPT` · `Agents` |
-| **⚖️ Droits Burkina** | An **AI assistant for labor-law rights** in Burkina Faso — making legal information accessible in plain language. | `Python` · `LLM` · `RAG` |
+| **💸 Tonty** | A full **tontine (rotating savings) platform** for the West-African market — mobile app, back-end and the infra behind it, with WhatsApp-based OTP auth. | `Flutter` · `Supabase` · `Docker` · `Tailscale` |
+| **🎙️ JHIN — MeetingApp** | A **local-first meeting assistant**: records → transcribes with Whisper → summarizes → answers from your own docs. Modular architecture with MCP servers and a FastAPI gateway. | `FastAPI` · `MCP` · `Whisper` · `RAG` · `Expo` |
+| **🚚 IKA-TRACKER** | A **microservices** platform for managing courier drop-offs. | `Node.js` · `Microservices` |
+| **♾️ Ouroboros** | An experimental **self-modifying AI agent** that rewrites its own code and evolves across restarts. | `Python` · `Agents` |
 
 ---
 
@@ -48,41 +62,38 @@ backend, and the infrastructure that keeps it running. Lately most of my energy 
 
 **Languages**
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Frameworks & Frontend**
+**Frameworks**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-**AI / LLM**
-
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-8A2BE2?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat-square)
-![Whisper](https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 **Data & Infra**
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-## 📌 Featured repositories
+## 📌 More on my GitHub
 
 - [**ouroboros**](https://github.com/lycorecoil/ouroboros) — self-creating AI agent that rewrites its own source
 - [**chatbot-droits-burkina**](https://github.com/lycorecoil/chatbot-droits-burkina) — AI assistant for labor rights in Burkina Faso
-- [**IKA-TRACKER**](https://github.com/lycorecoil/IKA-TRACKER) — microservices system for managing courier drop-offs
+- [**Systeme-Authentification**](https://github.com/lycorecoil/Systeme-Authentification) — Django authentication system
 - [**Tutoring platform**](https://github.com/lycorecoil/Project-Tutor-L3-UVBF-Frontend-) — Flutter + Firebase tutoring app
 
 ---
