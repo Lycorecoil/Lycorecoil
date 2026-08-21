@@ -1,7 +1,7 @@
 # Jean-Baptiste Ilboudo
 
 Software engineer based in Burkina Faso. I work across the stack — back-end
-services, mobile, low-level C, and applied AI — with a bias toward shipping
+services, mobile, low-level C, and applied AI with a bias toward shipping
 things that actually run in production.
 
 Currently: full-stack product work and simulation projects.
